@@ -1,7 +1,10 @@
 ---
-name: 🚀 Feature Request
+name: "\U0001F680 Feature Request"
 about: Share ideas for new features
-labels: enhancement
+title: ''
+labels: documentation, Edits, enhancement, good first issue
+assignees: Zeenza123
+
 ---
 
 <!-- Thank your for your input! Before you submit your issue, please make sure you've searched https://github.com/openid/AppAuth-Android/issues for existing requests -->

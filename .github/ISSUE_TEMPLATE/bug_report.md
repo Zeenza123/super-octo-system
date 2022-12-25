@@ -1,7 +1,10 @@
 ---
-name: 🐛 Bug Report
-about: Something isn't working as expected 🤔
+name: "\U0001F41B Bug Report"
+about: "Something isn't working as expected \U0001F914"
+title: ''
 labels: bug
+assignees: ''
+
 ---
 
 <!-- Thank your for your input! Before you submit your issue, please make sure you followed our checklist and check the appropriate boxes by putting an x in the [ ]: [x] -->
