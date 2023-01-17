@@ -1,7 +1,10 @@
 ---
-name: ❓ Ask a Question
+name: "❓ Ask a Question"
 about: Ask the community for help
+title: ''
 labels: question
+assignees: ''
+
 ---
 
 <!-- Thank your for your input! Before you submit your issue, please make sure you've searched https://github.com/openid/AppAuth-Android/issues for existing questions. -->
